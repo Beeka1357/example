@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/Beeka-round.png')}}" alt="" width="70px">
